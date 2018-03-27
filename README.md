@@ -9,6 +9,7 @@
 **Must skim these to understand the fundamental thought process/methodology being suggested:**
 * A Mathematician's Lament: https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
 * Making Learning Whole, by David Perkins: https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators
+* https://youtu.be/kzt3-FHdAeM?t=2m17s
 
 **similar programs we can borrow ideas from**
 * http://www-bcf.usc.edu/~gareth/ISL/
@@ -18,3 +19,15 @@
 * https://www.youtube.com/channel/UC33qFpcu7eHFtpZ6dp3FFXw/videos
 * http://course.fast.ai/
 * http://course.fast.ai/part2.html
+
+* http://resources.wolframcloud.com/NeuralNetRepository (click on 'browse by task type | input domain')
+* https://docs.google.com/document/d/11VAATynYgdbD3eOPSiIDV1DKOz_bt2gypTcl097fBJU/edit (Alex R. Document)
+
+
+**some aligned thoughts from the community**
+* https://www.reddit.com/r/MachineLearning/comments/7i1uer/n_yann_lecun_response_to_ali_rahimis_nips_lecture/
+>  Yann, thanks for the thoughtful reaction. "If you don't like what's happening, fix it" is exactly what Moritz Hardt told me a year ago. It's been hard to make progress with just a small group, and to be honest, I'm overwhelmed by the scale of the task. The talk was a plea for others to help.
+
+> I don't think the problem is one of theory. **Math for math's sake won't help. The problem is one of pedagogy. I'm asking for simple experiments and simple theorems so we can all communicate the insights without confusion. You've probably gotten so good at building deep models because you've run more experiments than almost any of us. Imagine the confusion of a newcomer to the field. What we do looks like magic because we don't talk in terms of small building blocks. We talk about entire models working as a whole. It's a mystifying onboarding process.**
+
+> And I agree that alchemical approaches are important. They speed us up. They fix immediate problems. I have the deepest respect for people who quickly build intuitions in their head and build systems that work. You, and many of my colleagues at Google have this impressive skill. You're a rare breed. Part of my call to rigor is for those who're good at this alchemical way of thinking to provide pedagogical nuggets to the rest of us so we can approach your level of productivity. The "rigor" i'm asking for are the pedagogical nuggets: simple experiments, simple theorems.
