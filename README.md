@@ -8,8 +8,8 @@
 
 **Must skim these to understand the fundamental thought process/methodology being suggested:**
 * A Mathematician's Lament: https://www.maa.org/external_archive/devlin/LockhartsLament.pdf (replace 'math' with 'data science' or 'machine learning' in that document)
-* Making Learning Whole, by David Perkins: https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators
-* https://youtu.be/kzt3-FHdAeM?t=2m17s (especially 'playing the whole game')
+* Making Learning Whole, by David Perkins: https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators (especially 'playing the whole game')
+* https://youtu.be/kzt3-FHdAeM?t=2m17s
 
 **similar programs we can borrow ideas from**
 * http://www-bcf.usc.edu/~gareth/ISL/
