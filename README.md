@@ -11,7 +11,7 @@
 * Making Learning Whole, by David Perkins: https://www.gse.harvard.edu/news/uk/09/01/education-bat-seven-principles-educators (especially 'playing the whole game')
 * https://youtu.be/kzt3-FHdAeM?t=2m17s
 
-**similar programs we can borrow ideas from**
+**resources we can borrow ideas from**
 * http://www-bcf.usc.edu/~gareth/ISL/
 * https://www.manning.com/books/deep-learning-with-python
 * https://www.udemy.com/datascience/
@@ -19,6 +19,9 @@
 * https://www.youtube.com/channel/UC33qFpcu7eHFtpZ6dp3FFXw/videos
 * http://course.fast.ai/
 * http://course.fast.ai/part2.html
+* https://cloud.google.com/training/data-ml
+* https://ai.google/education/#?modal_active=none
+* https://www.kaggle.com/learn/overview
 
 * http://resources.wolframcloud.com/NeuralNetRepository (click on 'browse by task type | input domain')
 * https://docs.google.com/document/d/11VAATynYgdbD3eOPSiIDV1DKOz_bt2gypTcl097fBJU/edit (Alex R. Document)
