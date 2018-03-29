@@ -22,6 +22,7 @@
 * https://cloud.google.com/training/data-ml
 * https://ai.google/education/#?modal_active=none
 * https://www.kaggle.com/learn/overview
+* https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 
 * http://resources.wolframcloud.com/NeuralNetRepository (click on 'browse by task type | input domain')
 * https://docs.google.com/document/d/11VAATynYgdbD3eOPSiIDV1DKOz_bt2gypTcl097fBJU/edit (Alex R. Document)
