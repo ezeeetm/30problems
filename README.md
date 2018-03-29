@@ -23,6 +23,7 @@
 * https://ai.google/education/#?modal_active=none
 * https://www.kaggle.com/learn/overview
 * https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
+* https://medium.com/deep-math-machine-learning-ai/different-types-of-machine-learning-and-their-types-34760b9128a2
 
 * http://resources.wolframcloud.com/NeuralNetRepository (click on 'browse by task type | input domain')
 * https://docs.google.com/document/d/11VAATynYgdbD3eOPSiIDV1DKOz_bt2gypTcl097fBJU/edit (Alex R. Document)
