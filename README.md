@@ -25,6 +25,10 @@
 * https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/
 * https://medium.com/deep-math-machine-learning-ai/different-types-of-machine-learning-and-their-types-34760b9128a2
 * https://towardsdatascience.com/types-of-machine-learning-algorithms-you-should-know-953a08248861
+* https://elitedatascience.com/machine-learning-projects-for-beginners
+* https://www.kaggle.com/annavictoria/ml-friendly-public-datasets <<<<very good
+* https://www.kaggle.com/rtatman/fun-beginner-friendly-datasets?scriptVersionId=1648117
+
 
 * http://resources.wolframcloud.com/NeuralNetRepository (click on 'browse by task type | input domain')
 * https://docs.google.com/document/d/11VAATynYgdbD3eOPSiIDV1DKOz_bt2gypTcl097fBJU/edit (Alex R. Document)
