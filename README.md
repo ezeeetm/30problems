@@ -12,6 +12,8 @@
 * https://youtu.be/kzt3-FHdAeM?t=2m17s
 
 **resources we can borrow ideas from**
+* https://www.reddit.com/r/learnmachinelearning/comments/89fndb/machine_learning_is_hard_how_do_you_guys_do_it/
+* https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
 * http://www-bcf.usc.edu/~gareth/ISL/
 * https://www.manning.com/books/deep-learning-with-python
 * https://www.udemy.com/datascience/
