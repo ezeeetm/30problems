@@ -1,5 +1,8 @@
 # 30problems
 
+**Some cool problems
+https://mlcourse.ai/assignments
+
 **Original Reddit Thread:**
 * https://www.reddit.com/r/datascience/comments/838tlf/there_are_way_too_many_getting_started_with_data/
 
