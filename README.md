@@ -15,6 +15,7 @@ https://mlcourse.ai/assignments
 * https://youtu.be/kzt3-FHdAeM?t=2m17s
 
 **resources we can borrow ideas from**
+* https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
 * https://techcrunch.com/2018/04/05/cometml-wants-to-do-for-machine-learning-what-github-did-for-code/
 * https://www.reddit.com/r/learnmachinelearning/comments/89fndb/machine_learning_is_hard_how_do_you_guys_do_it/
 * https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/
