@@ -2,6 +2,7 @@
 
 **Some cool problems
 https://mlcourse.ai/assignments
+https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
 
 **Original Reddit Thread:**
 * https://www.reddit.com/r/datascience/comments/838tlf/there_are_way_too_many_getting_started_with_data/
