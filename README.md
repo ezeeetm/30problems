@@ -16,6 +16,7 @@ https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
 * https://youtu.be/kzt3-FHdAeM?t=2m17s
 
 **resources we can borrow ideas from**
+* https://www.kaggle.com/learn/overview
 * https://philippmuens.com/gradient-descent-from-scratch/
 * https://victorzhou.com/blog/intro-to-neural-networks/
 * https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
