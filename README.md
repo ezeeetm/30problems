@@ -16,6 +16,8 @@ https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
 * https://youtu.be/kzt3-FHdAeM?t=2m17s
 
 **resources we can borrow ideas from**
+* https://philippmuens.com/gradient-descent-from-scratch/
+* https://victorzhou.com/blog/intro-to-neural-networks/
 * https://theappsolutions.com/blog/development/machine-learning-algorithm-types/
 * https://techcrunch.com/2018/04/05/cometml-wants-to-do-for-machine-learning-what-github-did-for-code/
 * https://www.reddit.com/r/learnmachinelearning/comments/89fndb/machine_learning_is_hard_how_do_you_guys_do_it/
