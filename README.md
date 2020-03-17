@@ -3,6 +3,7 @@
 VERY good sources!:
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
+https://www.kaggle.com/ezeeetm/titanic-hello-world-random-forest/edit (<solves titanic several different ways)
 
 **Some cool problems
 https://mlcourse.ai/assignments
