@@ -1,5 +1,7 @@
 # 30problems
 
+VERY good source: https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
 **Some cool problems
 https://mlcourse.ai/assignments
 https://www.kaggle.com/m2skills/datasets-and-tutorial-kernels-for-beginners
