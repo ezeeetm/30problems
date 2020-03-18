@@ -6,6 +6,8 @@ VERY good sources!:
 * https://www.kaggle.com/ezeeetm/titanic-hello-world-random-forest/edit (<solves titanic several different ways)
 * https://github.com/python-engineer/MLfromscratch
 * https://www.dataquest.io/blog/top-10-machine-learning-algorithms-for-beginners/
+* https://explained.ai/
+* https://mlbook.explained.ai/
 
 **Some cool problems
 https://mlcourse.ai/assignments
